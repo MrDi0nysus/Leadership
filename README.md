@@ -4,7 +4,7 @@ Leadership reading list
 ## Titles
 
 - [How to Win Friends & Influence People](https://github.com/DavidGeeraerts/Leadership/blob/main/doc/How%20to%20Win%20Friends%20%26%20Influence%20People.md) -- [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie)
-- [Leaders Eat Last](https://github.com/DavidGeeraerts/Leadership/blob/main/doc/Leaders%20Eat%20Last.md) -- [Simon Sinek](https://en.wikipedia.org/wiki/Simon_Sinek)
+- [Leaders Eat Last](https://github.com/MrDi0nysus/Leadership/blob/Dev_D_Edition1.1/doc/Leaders%20Eat%20Last.md) -- [Simon Sinek](https://en.wikipedia.org/wiki/Simon_Sinek)
 - Start with Why: How Great Leaders Inspire Everyone to Take Action -- Simon Sinek
 - Learning to Lead -- Warren Bennis
 - On Becoming a Leader -- Warren Bennis
